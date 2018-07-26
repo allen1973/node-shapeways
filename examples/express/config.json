@@ -1,8 +1,8 @@
 {
     "app": {
         "name": "My Cool Shapeways App",
-	    "key": "<APP KEY HERE>",
-	    "secret": "<APP SECRET HERE>"
+	    "key": "3df420df1a4298c012b4c765f9f3f066dc9d0b04",
+	    "secret": "551416390b9c8581838bfc6047856c19684a7371"
     },
     "port": 3000
 }
